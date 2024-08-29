@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pixelpaw", "pixelpaw.csproj", "{EA6DB960-9341-457A-ACEA-416877BFE5CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pixelpaw", "pixelpaw.csproj", "{EA6DB960-9341-457A-ACEA-416877BFE5CC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PixelPasInstaller", "..\PixelPasInstaller\PixelPasInstaller.vdproj", "{BB84D588-16A4-41DE-8252-3F788878CB9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,12 @@ Global
 		{EA6DB960-9341-457A-ACEA-416877BFE5CC}.Release|x86.ActiveCfg = Release|x86
 		{EA6DB960-9341-457A-ACEA-416877BFE5CC}.Release|x86.Build.0 = Release|x86
 		{EA6DB960-9341-457A-ACEA-416877BFE5CC}.Release|x86.Deploy.0 = Release|x86
+		{BB84D588-16A4-41DE-8252-3F788878CB9F}.Debug|ARM64.ActiveCfg = Debug
+		{BB84D588-16A4-41DE-8252-3F788878CB9F}.Debug|x64.ActiveCfg = Debug
+		{BB84D588-16A4-41DE-8252-3F788878CB9F}.Debug|x86.ActiveCfg = Debug
+		{BB84D588-16A4-41DE-8252-3F788878CB9F}.Release|ARM64.ActiveCfg = Release
+		{BB84D588-16A4-41DE-8252-3F788878CB9F}.Release|x64.ActiveCfg = Release
+		{BB84D588-16A4-41DE-8252-3F788878CB9F}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

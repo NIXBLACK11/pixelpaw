@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pixelpaw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d365c1fff2cfac492a02343bfef63aa924eb5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580ff36dc893c2733677368a6438103c2082d21a")]
 [assembly: System.Reflection.AssemblyProductAttribute("pixelpaw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pixelpaw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
