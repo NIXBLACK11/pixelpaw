@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VL/P36Lq8tw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\siddh\\Desktop\\programms\\pixelpaw\\pixelpaw\\pixelpaw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240802000\\microsoft.windowsappsdk.1.5.240802000.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.8\\microsoft.netcore.app.runtime.win-x86.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.34\\microsoft.windows.sdk.net.ref.10.0.19041.34.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x86.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.8\\microsoft.netcore.app.runtime.win-arm64.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-arm64.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-arm64.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\siddh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
