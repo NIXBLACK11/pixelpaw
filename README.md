@@ -21,3 +21,7 @@ cd pixelpaw
 
 ## To simply install use this:
 [installer](PixelPasInstaller\Debug\PixelPasInstaller.msi)
+
+These are the screenshots of my solution:
+![sol](mySol.png)
+![sol](mySol2.png)
