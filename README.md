@@ -1,5 +1,5 @@
 # PixelPaw - A WinUI 3 Sample Application
-This is a basic WinUI 3 application demonstrating how to create a simple window with a button. When the button is clicked, its text changes.
+This is a basic WinUI 3 application.
 
 ## Prerequisites
 - Visual Studio 2022 with the following workloads:
