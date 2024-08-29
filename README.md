@@ -23,5 +23,5 @@ cd pixelpaw
 [installer](PixelPasInstaller\Debug\PixelPasInstaller.msi)
 
 These are the screenshots of my solution:
-![sol](mySol.png)
-![sol](mySol2.png)
+- ![sol](mySol.png)
+- ![sol](mySol2.png)
